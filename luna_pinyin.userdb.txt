@@ -1,0 +1,10 @@
+# Rime user dictionary
+#@/db_name	luna_pinyin.userdb
+#@/db_type	userdb
+#@/rime_version	1.5.3
+#@/tick	4
+#@/user_id	73d9bf91-a6d6-4d56-bfd0-cdb126737771
+hun yong 	混用	c=1 d=1 t=4
+pei zhi 	配置	c=1 d=1 t=3
+shuang pin 	雙拼	c=1 d=1 t=2
+zi ran ma 	自然碼	c=1 d=1 t=1
